@@ -16,8 +16,8 @@
   <property name="asteprev" type="float" value="200.0"/>
   <property name="axes" type="int" value="1"/>
   <property name="classicladder" type="bool" value="False"/>
-  <property name="createshortcut" type="bool" value="True"/>
-  <property name="createsymlink" type="bool" value="True"/>
+  <property name="createshortcut" type="bool" value="False"/>
+  <property name="createsymlink" type="bool" value="False"/>
   <property name="customhal" type="int" value="1"/>
   <property name="digitsin" type="float" value="15.0"/>
   <property name="digitsout" type="float" value="15.0"/>
@@ -41,7 +41,7 @@
   <property name="number_pports" type="int" value="1"/>
   <property name="period" type="int" value="25000"/>
   <property name="pin1" type="string" value="unused-output"/>
-  <property name="pin10" type="string" value="all-limit"/>
+  <property name="pin10" type="string" value="unused-input"/>
   <property name="pin10inv" type="bool" value="False"/>
   <property name="pin11" type="string" value="home-a"/>
   <property name="pin11inv" type="bool" value="False"/>
